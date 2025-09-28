@@ -25,7 +25,7 @@ const Layout: React.FC = () => {
             <div className="flex">
               <Link to="/" className="flex items-center">
                 <img 
-                  src="/logo.png" 
+                  src="/edumedlogo.PNG" 
                   alt="EduMed Consulting" 
                   className="h-12"
                 />
