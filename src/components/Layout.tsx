@@ -27,7 +27,7 @@ const Layout: React.FC = () => {
                 <img 
                   src="/edumedlogo.PNG" 
                   alt="EduMed Consulting" 
-                  className="h-12"
+                  className="h-24"
                 />
               </Link>
             </div>
